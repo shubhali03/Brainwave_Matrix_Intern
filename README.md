@@ -77,7 +77,7 @@ Before you start, ensure you have *Java 8+* installed on your machine.
 
 1. *Clone the Repository* from GitHub:
     bash
-    git clone 
+    git clone https://github.com/shubhali03/Brainwave_Matrix_Intern.git
     cd ATM-System
     
 
